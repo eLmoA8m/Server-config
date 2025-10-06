@@ -129,3 +129,6 @@ sudo firewall-cmd --list-all
 ---
 
 > ℹ️ **Consejo:** Documenta cualquier cambio en las reglas del firewall para mantener un control claro sobre la configuración de seguridad de tu servidor.
+
+¿Listo para continuar?  
+Sigue con la [configuración de Apache](#2-Apache.md).
